@@ -1,1 +1,21 @@
-# 441-Project2-Huimin-Fan
+# Project 2: Uninformed Search - Huimin Fan
+
+# Problem 1: 
+Project2-Huimin Fan/
+├── Problem1/
+│   ├── interface.py   
+│   ├── world.py       
+│   ├── graph.py       
+│   ├── node.py        
+│   ├── images/        
+│   └── readme.md      
+└── Problem2/
+    └── reflection.py
+
+# Problem 2: Reflection Questions
+
+a. How much time did you spend on these two problems?
+I spent about 6 hours total: 2 hours designing the state space on paper, 3 hours implementing and debugging the code, and 1 hour on the readme.
+
+b. How would you rate the difficulty of these two problems?
+I found Problem 1 moderately difficult. Designing the state space was the trickiest part; the search algorithms were straightforward once the graph was built. Problem 2 was easy.
